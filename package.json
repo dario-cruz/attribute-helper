@@ -1,0 +1,26 @@
+{
+  "name": "attribute-helper",
+  "version": "0.0.1",
+  "description": "Module that will assist in the setting of multiple attributes on dom elemments, with less lines of JS code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dario-cruz/attribute-helper.git"
+  },
+  "keywords": [
+    "attribute",
+    "helper",
+    "dom",
+    "javascript",
+    "html"
+  ],
+  "author": "Dario Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dario-cruz/attribute-helper/issues"
+  },
+  "homepage": "https://github.com/dario-cruz/attribute-helper#readme"
+}
