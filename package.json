@@ -1,5 +1,5 @@
 {
-  "name": "attribute-helper",
+  "name": "@dariocru/attribute-helper",
   "version": "0.0.1",
   "description": "Module that will assist in the setting of multiple attributes on dom elemments, with less lines of JS code.",
   "main": "index.js",
